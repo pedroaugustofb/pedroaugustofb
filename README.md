@@ -11,6 +11,7 @@
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png">
+  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png">
   <!-- <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/733030618333708329/894625134550323240/perfil1.jpeg">
   -->
 </div>
