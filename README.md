@@ -1,4 +1,6 @@
-## Olá! Eu sou o Pedro, desenvolvedor web e estudante de Engenharia da Computação.
+## Olá! Eu sou o Pedro.
+Sou Desenvolvedor Web Fullstack, Estudante de Engenharia da Computação e Análise e Desenvolvimento de Sistemas.
+Tecnologias mais utilizadas: Javascript, Typescript, React, Nodejs, ExpressJs, MongoDB, C, C++, HTML, Css.
 
 <div align="center">
   <a href="https://github.com/pedroaugustofb">
