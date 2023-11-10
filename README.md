@@ -20,7 +20,10 @@
   <img align="center" alt="Pedro-C++" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png">
   <img align="center" alt="Pedro-mySql" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
   <img align="center" alt="Pedro-git" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png">
+  
 </div>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
   ##
   
