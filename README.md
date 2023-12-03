@@ -46,19 +46,19 @@ Meus repositórios mostram minha evolução até hoje, desde os primeiros códig
 
 ## 📊 Status sobre o que eu ando fazendo por aqui 📊
 
-<div align = "center">
-
-![Status Lelepg](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroaugustofb&theme=nord_dark)
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=pedroaugustofb&theme=nord&column=6&row=1&margin-w=10)
-
-</div>
-
 <!-- GitHub Stats -->
 <div align="center">
   <a href="https://github.com/pedroaugustofb">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=pedroaugustofb&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaugustofb&layout=compact&langs_count=7&theme=nord"/>
   </a>
+</div>
+<div align = "center">
+
+<!-- ![Status pedroaugustofb](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroaugustofb&theme=nord_dark) -->
+
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=pedroaugustofb&theme=nord&column=6&row=1&margin-w=10)
+
 </div>
 
 ## ⭐ Minhas Redes ⭐
