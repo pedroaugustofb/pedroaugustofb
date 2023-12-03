@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-![Boas vindas ao meu Github](imagens/banner.png)
+![Banner](images/banner.png)
 
 <!-- About me -->
 
