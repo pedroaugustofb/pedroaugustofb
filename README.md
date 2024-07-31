@@ -6,7 +6,7 @@
 
 ## 👩‍💻 Quem sou eu 👩‍💻
 
-Olá! Meu nome é Pedro. Eu Desenvolvedor Web na [Go Beesiness](https://gobeesiness.com), Estudante de Engenharia da Computação na [Universidade Federal da Paraíba](https://ufpb.br) e de Análise e Desenvolvimento de Sistemas na [UNIESP](https://www.iesp.edu.br/portal).
+Olá! Meu nome é Pedro. sou Desenvolvedor Web Pleno na [InMeta](https://www.inmeta.com.br/). Graduado em Análise e Desenvolvimento de Sistemas na [UNIESP](https://www.iesp.edu.br/portal) e estudante de Engenharia da Computação na [Universidade Federal da Paraíba](https://ufpb.br).
 
 ## O que vc vai encontrar no meu Github?
 
@@ -34,6 +34,8 @@ Meus repositórios mostram minha evolução até hoje, desde os primeiros códig
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
 
 ## ⭐ Tecnologias que eu já estudei ⭐
 
@@ -43,6 +45,7 @@ Meus repositórios mostram minha evolução até hoje, desde os primeiros códig
 ![MySQL](https://img.shields.io/badge/MySQL-FFC500?style=for-the-badge&logo=mysql&logoColor=black)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ## 📊 Status sobre o que eu ando fazendo por aqui 📊
 
